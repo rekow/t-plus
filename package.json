@@ -1,0 +1,36 @@
+{
+  "name": "t-plus",
+  "version": "1.0.0",
+  "description": "Terse async isomorphic templates, with inheritance, named blocks and macros.",
+  "keywords": [
+    "t",
+    "t plus",
+    "template",
+    "templates",
+    "templating",
+    "isomorphic",
+    "isomorphic templates"
+  ],
+  "author": {
+    "name": "David Rekow",
+    "email": "d@davidrekow.com",
+    "url": "http://github.com/davidrekow"
+  },
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidrekow/t-plus.git"
+  },
+  "bugs": "https://github.com/davidrekow/t-plus/issues",
+  "license": "MIT",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.5",
+    "mocha-multi": "~0.7.1",
+    "istanbul": "~0.3.17",
+    "coveralls": "~2.11.3",
+    "closure-compiler-stream": "^0.1.15"
+  }
+}

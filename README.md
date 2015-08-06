@@ -3,7 +3,7 @@ Tiny, terse templates. Based on [`t`](https://github.com/jasonmoo/t.js).
 
 Inheritance, macros, basic conditional and iteration logic.
 
-[![Build Status](https://travis-ci.org/davidrekow/t-plus.svg?branch=master)](https://travis-ci.org/davidrekow/t-plus) [![Coverage Status](https://coveralls.io/repos/davidrekow/t-plus/badge.png?branch=master)](https://coveralls.io/r/davidrekow/t-plus?branch=master)
+[![Build Status](https://travis-ci.org/davidrekow/t-plus.svg?branch=1.0.0)](https://travis-ci.org/davidrekow/t-plus) [![Coverage Status](https://coveralls.io/repos/davidrekow/t-plus/badge.svg?branch=1.0.0&service=github)](https://coveralls.io/github/davidrekow/t-plus?branch=1.0.0)
 
 ## Usage
 
